@@ -1,6 +1,3 @@
-## About me
-Even God Call Me MarieY
-
 ## Skills
 <p align="left">
  <a href="https://github.com/moji55">
@@ -10,4 +7,4 @@ Even God Call Me MarieY
 
 
 ## Status
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moji55&theme=radical&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AzureDesu&theme=radical&show_icons=true&hide_border=true&count_private=true)
