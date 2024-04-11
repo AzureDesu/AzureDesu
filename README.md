@@ -1,6 +1,6 @@
 ## Skills
 <p align="left">
- <a href="https://github.com/moji55">
+ <a href="https://github.com/AzureDesu">
    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,jquery,docker,git,github,mysql,graphql,prisma,php,laravel,symfony,nodejs,vue,nuxtjs,blender,ps" />
  </a>
 </p>
