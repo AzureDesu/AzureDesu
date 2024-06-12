@@ -1,4 +1,4 @@
-# <img align="left" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&color=F7F7F7&background=FFFFFF00&vCenter=true&random=false&width=165&height=25&lines=%F0%9F%8C%8A+Azure+CHAN;%F0%9F%8C%8A+Azure+Desu" />
+# <img align="left" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&color=4298ed&background=FFFFFF00&vCenter=true&random=false&width=165&height=25&lines=%F0%9F%8C%8A+Azure+CHAN;%F0%9F%8C%8A+Azure+Desu" />
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=AzureDesu&theme=dark&show_icons=true&hide_border=true&count_private=true&hide_rank=true" align=right />
