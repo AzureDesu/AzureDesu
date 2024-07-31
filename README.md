@@ -26,9 +26,16 @@
    <img alt="jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
 
 
-</p>
-
+</p
+  
+   **Game Developer**
+   
+   <p align="left">
+     <img alt="godot" src="https://img.shields.io/badge/GodotEngine-0769AD?style=flat-square&logo=godotengine&logoColor=fff" />
+   </p>
+   
    **BackEnd Developer**
+   
    <p>
     <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
     <img alt="rust" src="https://img.shields.io/badge/Rust-black?style=flat-square&logo=rust&logoColor=#E57324" />
