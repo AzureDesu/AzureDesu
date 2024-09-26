@@ -1,5 +1,4 @@
-# <img align="left" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&color=4298ed&background=FFFFFF00&vCenter=true&random=false&width=165&height=25&lines=%F0%9F%8C%8A+Azure+CHAN;%F0%9F%8C%8A+Azure+Desu" />
-
+<img align="left" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&color=4298ed&background=FFFFFF00&vCenter=true&random=false&width=165&height=25&lines=%F0%9F%8C%8A+Azure+CHAN;%F0%9F%8C%8A+Azure+Desu" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=AzureDesu&theme=dark&show_icons=true&hide_border=true&count_private=true&hide_rank=true" align=right />
 
@@ -38,7 +37,9 @@
    
    <p>
     <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+      <img alt="Express" src="https://img.shields.io/badge/-Express.js-010409?style=flat-square&logo=express&logoColor=white" />
     <img alt="rust" src="https://img.shields.io/badge/Rust-black?style=flat-square&logo=rust&logoColor=#E57324" />
+     <img alt="go" src="https://img.shields.io/badge/Go-344B70?style=flat-square&logo=go&logoColor=#E57324" />
       <img alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
     <img alt="python" src="https://img.shields.io/badge/Python-181717?style=flat-square&logo=python&logoColor=blue" />
        <img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
@@ -53,10 +54,16 @@
  <p>
   <img alt="krita" src="https://img.shields.io/badge/Krita-203759?style=flat-square&logo=krita&logoColor=EEF37B" />
   <img alt="blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white" />
+
   <img alt="photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=black" />
  </p>
+ 
+ **Animate , Rigging**
+ <p>
+           <img alt="live2d" src="https://img.shields.io/badge/Live2D%20Cubism-FF6E2D.svg?style=flat-square&logoColor=white" />
+           <img alt="blender-goo" src="https://img.shields.io/badge/blender%20[Goo Engine]-309115.svg?style=flat-square&logo=blender&logoColor=white" />
+ </p>
 
-   
    **Environment**
 <p>
  
