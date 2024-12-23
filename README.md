@@ -1,13 +1,13 @@
-<img align="left" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&color=4298ed&background=FFFFFF00&vCenter=true&random=false&width=165&height=25&lines=%F0%9F%8C%8A+Azure+CHAN;%F0%9F%8C%8A+Azure+Desu" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=AzureDesu&theme=dark&show_icons=true&hide_border=true&count_private=true&hide_rank=true" align=right />
+<img src="https://github.com/AzureDesu/AzureDesu/blob/master/profile-dd.gif?raw=true" align="left" width="50%" >
 
 
-
+<img align="left" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&color=4298ed&background=FFFFFF00&vCenter=true&random=false&width=195&height=25&lines=ㅤ%F0%9F%8C%8A+Azure+CHAN;ㅤ%F0%9F%8C%8A+Azure+Desu" />
 <br>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AzureDesu&theme=apprentice" align="left" />
 
-**Web Developer**
-<p align="left">
+
+**ㅤ**  **Web Developer**
+<p align="center">
 
 <img alt="vue3" src="https://img.shields.io/badge/-Vue-5BA17F?style=flat-square&logo=vue.js&logoColor=white" />
   <img alt="nuxt" src="https://img.shields.io/badge/Nuxt-00C58E?style=flat-square&logo=nuxtdotjs&logoColor=white" />
@@ -27,15 +27,15 @@
 
 </p
   
-   **Game Developer**
+ **ㅤ**  **Game Developer**
    
-   <p align="left">
+   <p align="center">
      <img alt="godot" src="https://img.shields.io/badge/GodotEngine-0769AD?style=flat-square&logo=godotengine&logoColor=fff" />
    </p>
    
-   **BackEnd Developer**
+**ㅤ**   **BackEnd Developer**
    
-   <p>
+   <p align="center">
     <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
       <img alt="Express" src="https://img.shields.io/badge/-Express.js-010409?style=flat-square&logo=express&logoColor=white" />
     <img alt="rust" src="https://img.shields.io/badge/Rust-black?style=flat-square&logo=rust&logoColor=#E57324" />
@@ -50,24 +50,31 @@
     <img alt="jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white" />
    </p>
 
- **Desgin**
- <p>
-  <img alt="krita" src="https://img.shields.io/badge/Krita-203759?style=flat-square&logo=krita&logoColor=EEF37B" />
+**ㅤ** **Desgin**
+ <p align="center">
+  <img alt="cps" src="https://img.shields.io/badge/CLIP%20STUDIO%20PAINT-203759?style=flat-square&logo=CPS&logoColor=EEF37B" />
   <img alt="blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white" />
-
-  <img alt="photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=black" />
+  <img alt="photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white" />
+  <img alt="illustrator" src="https://img.shields.io/badge/illustrator-%23FF9A00?style=flat-square&logo=Adobe%20illustrator&logoColor=white" />
+  <img alt="aftereffects" src="https://img.shields.io/badge/After%20Effects-9999FF?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white" />
+  <img alt="xd" src="https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6" />
+  <img alt="figma" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" />
+  
  </p>
+
+
  
- **Animate , Rigging**
- <p>
+**ㅤ** **Animate , Rigging**
+ <p align="center">
            <img alt="live2d" src="https://img.shields.io/badge/Live2D%20Cubism-FF6E2D.svg?style=flat-square&logoColor=white" />
            <img alt="blender-goo" src="https://img.shields.io/badge/blender%20[Goo Engine]-309115.svg?style=flat-square&logo=blender&logoColor=white" />
  </p>
 
-   **Environment**
-<p>
+**ㅤ**   **Environment**
+<p align="center">
  
   <img alt="vscode" src="https://img.shields.io/badge/VSCode-181717?style=flat-square&logo=visual-studio-code&logoColor=ffffff" />
+  <img alt="visualstudio" src="https://img.shields.io/badge/Visual%20Studio-181717?style=flat-square&logo=visual-studio-code&logoColor=ffffff" />
   <img alt="phpstrom" src="http://img.shields.io/badge/-PHPStorm-181717?style=flat-square&logo=phpstorm&logoColor=white" />
  <img alt="pycharm" src="https://img.shields.io/badge/PyCharm-181717?&style=flat-square&logo=PyCharm&logoColor=white" />
 </p>
